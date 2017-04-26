@@ -1,0 +1,8 @@
+[submodule "auth-service"]
+	path = auth-service
+	url = https://magicwall106@github.com/magicwall106/auth-service.git
+	branch = master
+[submodule "common-lib"]
+	path = common-lib
+	url = https://magicwall106@github.com/magicwall106/common-lib.git
+	branch = master

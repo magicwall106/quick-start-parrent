@@ -1,4 +1,4 @@
 rootProject.name = 'quick-start-parrent'
 
-//include 'common'
-//include 'auth-service'
+include 'common-lib'
+include 'auth-service'
